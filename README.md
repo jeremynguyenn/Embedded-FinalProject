@@ -122,6 +122,15 @@ Flow chart
    - Exit
 ```
 
+Result in Max7219 7segment
+```
+Các trạng thái được hiển thị bao gồm:
+Nhiệt độ cabin (số, ví dụ: 25°C).
+Thay đổi áp suất đột ngột (ký tự 'S').
+Trạng thái HVAC: 'A' (kích hoạt), 'F' (không hoạt động), 'O' (nhiệt độ tối ưu).
+Cảnh báo áp suất cao/thấp (ký tự '8' nhấp nháy).
+Cảnh báo độ cao (ký tự '6' nhấp nháy với độ sáng thay đổi).
+```
 
 ## Demo video
 https://youtu.be/dVM61QyBQZc?si=pwpl0osD1-c442xa
